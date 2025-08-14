@@ -7,11 +7,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Title -->
-    <title>Empresa de Traducción en Lima | LIMAC</title>
+    <title>Empresa de Traducción en Madrid | LIMAC</title>
 
     <?php include('componentes/head.php');?>
 
 </head>
+<style>
+.js-swiper-blog-journal-hero {
+    height: 73vh;
+    overflow: hidden;
+}
+
+@media (max-width: 768px) {
+    .js-swiper-blog-journal-hero {
+        height: 80vh;
+    }
+}
+</style>
 
 <body>
     <!-- ========== HEADER ========== -->
@@ -29,30 +41,42 @@
                         style="background-image: url(./assets/img/index/miraflores.jpeg);  background-size: cover;
                         background-position: center;
                         background-repeat: no-repeat;
-                        min-height: 40rem;">
+                        min-height: 40rem;" data-swiper-autoplay="5000">
+
+                        <video autoplay muted loop playsinline
+                            class="position-absolute w-100 h-100 object-fit-cover zi-n1">
+                            <source src="./assets/video/eartth.mov" type="video/mp4">
+                            Tu navegador no soporta video HTML5.
+                        </video>
+
                         <!-- Container -->
                         <div class="container d-flex align-items-center" style="min-height: 40rem;">
                             <div class="w-lg-50 me-3">
                                 <div class="mb-5">
-                                    <h2 class="h1 text-white">Llegue a nuevos mercados</h2>
+                                    <h2 class="h1 text-white">Traducciones profesionales a la velocidad de ahora</h2>
                                 </div>
                                 <div class="media align-items-center mb-3 animated fadeInUp">
-                                    <a class="text-white">Nuestros traductores e intérpretes conocen la terminología y
-                                        cultura de su
-                                        mercado objetivo.</a>
+                                    <a class="text-white">Nuestros traductores conocen el idioma, la terminología y la
+                                        cultura de su mercado objetivo. </a>
                                 </div>
-                                <a class="btn btn-primary btn-transition" href="traduccion-digital.html">Hablemos de
-                                    Negocios<i class="bi-chevron-right small ms-1"></i></a>
+                                <a class="btn btn-primary btn-transition" href="traduccion-digital.html">Alcance nuevos
+                                    horizontes<i class="bi-chevron-right small ms-1"></i></a>
                             </div>
                         </div>
                         <!-- End Container -->
                     </div>
 
                     <div class="js-swiper-slide-preload swiper-slide d-flex gradient-x-overlay-sm-dark bg-img-start"
-                        style="background-image: url(./assets/img/index/uppsala.jpeg);   background-size: cover;
-            background-position: center;
-            background-repeat: no-repeat;
-            min-height: 40rem;">
+                        style="background-image: url(./assets/img/index/miraflores.jpeg);  background-size: cover;
+                        background-position: center;
+                        background-repeat: no-repeat;
+                        min-height: 40rem;" data-swiper-autoplay="5000">
+
+                        <video autoplay muted loop playsinline
+                            class="position-absolute w-100 h-100 object-fit-cover zi-n1">
+                            <source src="./assets/video/university.mov" type="video/mp4">
+                            Tu navegador no soporta video HTML5.
+                        </video>
                         <!-- Container -->
                         <div class="container d-flex align-items-center" style="min-height: 40rem;">
                             <div class="w-lg-50 me-3">
@@ -70,11 +94,16 @@
                     </div>
 
                     <div class="js-swiper-slide-preload swiper-slide d-flex gradient-x-overlay-sm-dark bg-img-start"
-                        style="background-image: url(./assets/img/index/bg5.jpg);
-              background-size: cover;
-              background-position: center;
-              background-repeat: no-repeat;
-              min-height: 40rem;">
+                        style="background-image: url(./assets/img/index/miraflores.jpeg);  background-size: cover;
+                        background-position: center;
+                        background-repeat: no-repeat;
+                        min-height: 40rem;" data-swiper-autoplay="5000">
+
+                        <video autoplay muted loop playsinline
+                            class="position-absolute w-100 h-100 object-fit-cover zi-n1">
+                            <source src="./assets/video/madrid.mov" type="video/mp4">
+                            Tu navegador no soporta video HTML5.
+                        </video>
                         <!-- Container -->
                         <div class="container d-flex align-items-center" style="min-height: 40rem;">
                             <div class="w-lg-50 me-3">
@@ -112,7 +141,7 @@
                         <div class="swiper-wrapper">
                             <!-- Slide -->
                             <div class="swiper-slide swiper-pagination-progress swiper-pagination-progress-light py-3">
-                                <p class="text-white">Hablamos el idioma de los negocios</p>
+                                <p class="text-white">Su mensaje, en todos los idiomas</p>
 
                                 <div class="swiper-pagination-progress-body">
                                     <div
@@ -153,150 +182,140 @@
         </div>
         <!-- End Hero -->
 
-        <!-- Card Grid -->
-        <div class="container content-space-t-3">
+
+        <!-- Icon Blocks -->
+        <div id="aboutSection" class="container content-space-t-2 content-space-t-lg-1">
             <!-- Heading -->
-            <div class="w-lg-65 text-center mx-lg-auto mb-5 mb-md-9">
-                <h2 class="text-primary">Confie su próximo proyecto<br>A un equipo altamente calificado</h2>
-                <p class="py-2">¿Es la primera vez que necesita un servicio de idiomas?<br>Con Limac es facil y rápido.
+            <div class="w-lg-75 text-center mx-auto mb-5 ">
+                <h2 class="">Confie su próximo proyecto<br>A un equipo altamente calificado</h2>
+                <p class="mt-5">¿Es la primera vez que necesita un servicio de idiomas?<br>Con Limac es facil y rápido.
                 </p>
-                <a class="btn btn-primary card-transition" href="#">Empiece ahora <i
+                <a class="btn btn-link card-transition fw-bold" href="#">Empiece ahora <i
                         class="bi-chevron-right strong ms-1"></i></a>
             </div>
-        </div>
+            <!-- End Heading -->
 
-        <div class="container content-space-t-2">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-4 mb-3 mb-lg-0">
-                        <!-- Card -->
-                        <div class="card bg-warning h-100 overflow-hidden card-transition">
-                            <div class="card-body card-transition">
-                                <div class="w-65 pe-2">
-                                    <h2 class="card-title text-white">Validez legal internacional</h2>
-                                </div>
-                                <div class="position-absolute end-0 bottom-0 w-50 mb-n3 me-n7">
-                                    <img class="card-img" src="./assets/img/index/banderas.png" alt="Image Description">
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End Card -->
-                    </div>
-                    <!-- End Col -->
+            <div class="row justify-content-center content-space-t-2 content-space-t-lg-1">
+                <div class="col-md-3 mb-7">
+                    <!-- Icon Blocks -->
+                    <div class="text-center px-lg-3">
+                        <img src="./assets/img/index/icon-11.svg" class="mb-5" alt="" style="max-width: 4.5rem;">
 
-                    <div class="col-lg-4">
-                        <!-- Card -->
-                        <div class="card bg-warning h-100 overflow-hidden card-transition">
-                            <div class="card-body card-transition">
-                                <div class="w-65 pe-2">
-                                    <h2 class="card-title text-white">Cumplimos con la fecha de entrega</h2>
-                                </div>
-                                <div class="position-absolute end-0 bottom-0 w-50 mb-n3 me-n7">
-                                    <img class="card-img" src="./assets/img/index/calendar2.png"
-                                        alt="Image Description">
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End Card -->
+                        <h4>Cumplimos con la fecha <br> entrega</h4>
                     </div>
-                    <div class="col-lg-4">
-                        <!-- Card -->
-                        <div class="card bg-warning h-100 overflow-hidden card-transition">
-                            <div class="card-body card-transition">
-                                <div class="w-65 pe-2">
-                                    <h2 class="card-title text-white">Entrega por medio digital y/o fisico</h2>
-                                </div>
-                                <div class="position-absolute end-0 bottom-0 w-50 mb-n3 me-n7">
-                                    <img class="card-img" src="./assets/img/index/notificacion.png"
-                                        alt="Image Description">
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End Card -->
-                    </div>
-                    <!-- End Col -->
+                    <!-- End Icon Blocks -->
                 </div>
-                <!-- End Row -->
-            </div>
+                <!-- End Col -->
 
+                <div class="col-md-3 mb-7">
+                    <!-- Icon Blocks -->
+                    <div class="text-center px-lg-3">
+                        <img src="./assets/img/index/icon-8.svg" class="mb-5" alt="" style="max-width: 4.5rem;">
+
+                        <h4>Validez legal <br> internacional</h4>
+                    </div>
+                    <!-- End Icon Blocks -->
+                </div>
+                <!-- End Col -->
+
+                <div class="col-md-3 mb-7">
+                    <!-- Icon Blocks -->
+                    <div class="text-center px-lg-3">
+                        <img src="./assets/img/index/icon-40.svg" class="mb-5" alt="" style="max-width: 4.5rem;">
+
+                        <h4>Entrega por medio <br> digital y/o fisico</h4>
+                    </div>
+                    <!-- End Icon Blocks -->
+                </div>
+                <!-- End Col -->
+            </div>
+            <!-- End Row -->
         </div>
+        <!-- End Icon Blocks -->
+
+
+
+
+        <!-- ¿Por qué debería trabajar con nosotros? -->
+        <div class="overflow-hidden content-space-t-3">
+            <div class="container">
+                <div class="row align-items-center">
+                    <!-- Imagen a la izquierda -->
+                    <div class="col-md-5 mb-5 mb-md-0" data-aos="fade-right" data-aos-duration="1000">
+                        <div class="position-relative">
+                            <div class="card card-transition d-flex flex-column justify-content-between bg-img-start h-100"
+                                style="min-height: 35rem; padding: 1.5rem;
+                                    background-image: url(./assets/img/index/bnn_nosotros.jpg);
+                                    background-size: cover;
+                                    background-position: center;">
+
+                                <div>
+
+                                </div>
+
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <!-- Texto a la derecha -->
+                    <div class="col-md-7">
+                        <div class="ps-sm-4">
+                            <h2 class="mb-3">¿Por qué debería trabajar con nosotros?</h2>
+                            <p class="mb-5">Desde el 2013 venimos enfocando nuestro tiempo y recursos en revolucionar la
+                                manera de cómo las empresas peruanas acceden a traducciones de calidad en tiempo récord.
+                            </p>
+
+                            <div class="row">
+                                <!-- Reutilizando tus 4 tarjetas en dos columnas -->
+                                <div class="col-sm-6 mb-4" data-aos="fade-left" data-aos-duration="750">
+                                    <span class="js-counter h2 text-primary" id="years"></span>
+                                    <span class="h2 text-primary">+</span>
+                                    <p>años en el mercado de <br> traducciones en el Perú</p>
+                                </div>
+
+                                <div class="col-sm-6 mb-4" data-aos="fade-left" data-aos-duration="750">
+                                    <span class="js-counter h2 text-primary">2500</span>
+                                    <span class="h2 text-primary">+</span>
+                                    <p>Clientes que confian sus <br> proyectos linguisticos</p>
+                                </div>
+
+                                <div class="col-sm-6 mb-4" data-aos="fade-left" data-aos-duration="750">
+                                    <span class="js-counter h2 text-primary">84</span>
+                                    <span class="h2 text-primary">%</span>
+                                    <p>de nuestros clientes nos <br> calificaron con 5 estrellas</p>
+                                </div>
+
+                                <div class="col-sm-6 mb-4" data-aos="fade-left" data-aos-duration="750">
+                                    <span class="js-counter h2 text-primary">490000</span>
+                                    <span class="h2 text-primary">+</span>
+                                    <p>palabras traducidas a <br> distintos idiomas</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Fin texto -->
+                </div>
+            </div>
+        </div>
+
+        <!-- End Tencnologia Nexus -->
+
+
+
+
+
+
+
+
 
 
 
 
         <!-- Features -->
         <div class="position-relative rounded-2 mx-3 mx-lg-10 content-space-2">
-            <div class="container content-space-2 content-space-lg-3">
-                <div class="row align-items-center">
-                    <!-- Imagen -->
-                    <div class="col-md-5 d-none d-md-block">
-                        <img src="./assets/img/bolsa_carreras/bkg0191.jpg" alt="Servicio de traducción profesional"
-                            class="img-fluid rounded-3 shadow-sm">
-                    </div>
-
-                    <!-- Texto y cita -->
-                    <div class="col-md-7">
-                        <div class="ps-md-5">
-                            <h2 class="text-primary fw-bold mb-3">
-                                ¿Por qué elegirnos como tu aliado en traducción?
-                            </h2>
-
-                            <p class="text-body">
-                                Desde el 2013 nos dedicamos a transformar la forma en que las empresas peruanas acceden
-                                a servicios de
-                                traducción. Combinamos calidad, rapidez y profesionalismo para ayudarte a comunicarte
-                                sin barreras.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <!-- End Features -->
-
-            <!-- Stats -->
 
 
-            <!-- Features Stats -->
-            <div class="container content-space-2 content-space-lg-1">
-                <div class="row">
-                    <div class="col-sm-3 card-transition" data-aos="fade-left" data-aos-delay="100">
-                        <div class="text-center">
-                            <small class="text-cap text-primary">Trayectoria consolidada</small>
-                            <h4 class="display-4">12+</h4>
-                            <p>Años brindando servicios de traducción profesional en Perú.</p>
-                        </div>
-                    </div>
-                    <!-- End Col -->
-
-                    <div class="col-sm-3 card-transition" data-aos="fade-left" data-aos-delay="150">
-                        <div class="text-center">
-                            <small class="text-cap text-primary">Excelencia reconocida</small>
-                            <h4 class="display-4">84%</h4>
-                            <p>De nuestros clientes nos califican con 5 estrellas</p>
-                        </div>
-                    </div>
-                    <!-- End Col -->
-
-                    <div class="col-sm-3 card-transition" data-aos="fade-left" data-aos-delay="200">
-                        <div class="text-center">
-                            <small class="text-cap text-primary">Confianza empresarial</small>
-                            <h4 class="display-4">2,500+</h4>
-                            <p>Empresas y profesionales nos han confiado sus proyectos lingüísticos.</p>
-                        </div>
-                    </div>
-                    <div class="col-sm-3 card-transition" data-aos="fade-left" data-aos-delay="250">
-                        <div class="text-center">
-                            <small class="text-cap text-primary">Volumen traducido</small>
-                            <h4 class="display-4">490,000+</h4>
-                            <p>Palabras traducidas a distintos idiomas en múltiples especialidades.</p>
-                        </div>
-                    </div>
-                    <!-- End Col -->
-                </div>
-                <!-- End Row -->
-            </div>
-            <!-- End Features Stats -->
 
             <!-- NEXUS-->
             <div class="container content-space-t-3">
@@ -776,6 +795,7 @@
     <script src="./assets/vendor/appear/dist/appear.min.js"></script>
     <script src="./assets/vendor/circles.js/circles.js"></script>
     <script src="./assets/vendor/hs-sticky-block/dist/hs-sticky-block.min.js"></script>
+    <script src="./assets/vendor/hs-counter/dist/hs-counter.min.js"></script>
 
     <!-- JS Front -->
     <script src="./assets/js/theme.min.js"></script>
@@ -786,7 +806,11 @@
     <!-- JS Plugins Init. -->
     <script>
     (function() {
-
+        // INITIALIZATION OF COUNTERS
+        // =======================================================
+        document.querySelectorAll('.js-counter').forEach(function(element) {
+            new HSCounter(element).init();
+        });
 
         // INITIALIZATION OF CIRCLES
         // =======================================================
@@ -840,7 +864,9 @@
         });
 
         // INITIALIZATION OF SWIPER
-        // =======================================================
+        // =======================================================   
+        const isMobile = window.innerWidth <= 375;
+
         function loadImage(path) {
             return new Promise(function(resolve) {
                 const img = new Image()
@@ -867,6 +893,9 @@
                     watchSlidesProgress: true,
                     slidesPerView: 3,
                     history: false,
+                    autoplay: {
+                        delay: 5000
+                    },
                     on: {
                         'afterInit': function(swiper) {
                             swiper.el.style.opacity = 1
@@ -878,8 +907,13 @@
                 });
 
                 var swiper = new Swiper('.js-swiper-blog-journal-hero', {
-                    effect: 'fade',
-                    autoplay: true,
+                    // direction: isMobile ? 'horizontal' : 'vertical',
+                    direction: 'vertical',
+                    effect: 'slide',
+                    autoplay: {
+                        delay: 5000,
+                        disableOnInteraction: false
+                    },
                     loop: true,
                     pagination: {
                         el: '.js-swiper-blog-journal-hero-pagination',
@@ -889,6 +923,7 @@
                         swiper: sliderThumbs
                     }
                 });
+
             })
 
         // INITIALIZATION OF STICKY BLOCKS
@@ -897,6 +932,11 @@
             targetSelector: document.getElementById('header').classList.contains('navbar-fixed') ?
                 '#header' : null
         });
+
+        // DIFERENCIA DE ANIOS DESDE EL 2013 HASTA AHORA
+        // =======================================================
+        const anios = new Date().getFullYear() - 2013;
+        document.getElementById('years').innerHTML = anios;
 
     })()
     </script>
