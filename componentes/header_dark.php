@@ -4,8 +4,9 @@
       <nav class="js-mega-menu navbar-nav-wrap">
         <!-- Default Logo -->
         <a class="navbar-brand" href="./index.php" aria-label="Front">
-          <span id="logo" class="logo_create text-white">limac</span>
-          <sub class="text-white">&reg;</sub>
+          <!-- <span id="logo" class="logo_create text-white">limac</span>
+          <sub class="text-white">&reg;</sub> -->
+          <img class="navbar-brand-logo" src="./assets/img/index/exyza_logo.png" alt="">
         </a>
         <!-- End Default Logo -->
 
