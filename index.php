@@ -45,7 +45,7 @@
 
                         <video autoplay muted loop playsinline
                             class="position-absolute w-100 h-100 object-fit-cover zi-n1">
-                            <source src="./assets/video/eartth.mov" type="video/mp4">
+                            <source src="./assets/video/earth.mov" type="video/mp4">
                             Tu navegador no soporta video HTML5.
                         </video>
 
@@ -59,7 +59,7 @@
                                     <a class="text-white">Nuestros traductores conocen el idioma, la terminología y la
                                         cultura de su mercado objetivo. </a>
                                 </div>
-                                <a class="btn btn-primary btn-transition" href="traduccion-digital.html">Alcance nuevos
+                                <a class="btn btn-danger btn-transition" href="traduccion-digital.html">Alcance nuevos
                                     horizontes<i class="bi-chevron-right small ms-1"></i></a>
                             </div>
                         </div>
@@ -86,7 +86,7 @@
                                 <div class="media align-items-center mb-3 animated fadeInUp">
                                     <a class="text-white">Asesoría gratis y sin compromisos.</a>
                                 </div>
-                                <a class="btn btn-primary btn-transition" href="traduccion.html">Hablemos de Negocios<i
+                                <a class="btn btn-danger btn-transition" href="traduccion.html">Hablemos de Negocios<i
                                         class="bi-chevron-right small ms-1"></i></a>
                             </div>
                         </div>
@@ -114,7 +114,7 @@
                                     <a class="text-white">Trabajamos con la PCM, el Congreso y Ministerio de Cultura
                                         desde 2013.</a>
                                 </div>
-                                <a class="btn btn-primary btn-transition" href="interpretacion.html">Hablemos de
+                                <a class="btn btn-danger btn-transition" href="interpretacion.html">Hablemos de
                                     Negocios<i class="bi-chevron-right small ms-1"></i></a>
                             </div>
                         </div>
@@ -129,7 +129,7 @@
 
                 <div
                     class="js-swiper-preloader d-flex align-items-center justify-content-center top-0 position-absolute w-100 h-100 bg-white zi-1">
-                    <div class="spinner spinner-border text-primary"></div>
+                    <div class="spinner spinner-border text-danger"></div>
                 </div>
             </div>
             <!-- End Swiper Main Slider -->
@@ -190,7 +190,7 @@
                 <h2 class="">Confie su próximo proyecto<br>A un equipo altamente calificado</h2>
                 <p class="mt-5">¿Es la primera vez que necesita un servicio de idiomas?<br>Con Limac es facil y rápido.
                 </p>
-                <a class="btn btn-link card-transition fw-bold" href="#">Empiece ahora <i
+                <a class="btn btn-link card-transition fw-bold text-danger" href="#">Empiece ahora <i
                         class="bi-chevron-right strong ms-1"></i></a>
             </div>
             <!-- End Heading -->
@@ -269,26 +269,26 @@
                             <div class="row">
                                 <!-- Reutilizando tus 4 tarjetas en dos columnas -->
                                 <div class="col-sm-6 mb-4" data-aos="fade-left" data-aos-duration="750">
-                                    <span class="js-counter h2 text-primary" id="years"></span>
-                                    <span class="h2 text-primary">+</span>
+                                    <span class="js-counter h2 text-danger" id="years"></span>
+                                    <span class="h2 text-danger">+</span>
                                     <p>años en el mercado de <br> traducciones en el Perú</p>
                                 </div>
 
                                 <div class="col-sm-6 mb-4" data-aos="fade-left" data-aos-duration="750">
-                                    <span class="js-counter h2 text-primary">2500</span>
-                                    <span class="h2 text-primary">+</span>
+                                    <span class="js-counter h2 text-danger">2500</span>
+                                    <span class="h2 text-danger">+</span>
                                     <p>Clientes que confian sus <br> proyectos linguisticos</p>
                                 </div>
 
                                 <div class="col-sm-6 mb-4" data-aos="fade-left" data-aos-duration="750">
-                                    <span class="js-counter h2 text-primary">84</span>
-                                    <span class="h2 text-primary">%</span>
+                                    <span class="js-counter h2 text-danger">84</span>
+                                    <span class="h2 text-danger">%</span>
                                     <p>de nuestros clientes nos <br> calificaron con 5 estrellas</p>
                                 </div>
 
                                 <div class="col-sm-6 mb-4" data-aos="fade-left" data-aos-duration="750">
-                                    <span class="js-counter h2 text-primary">490000</span>
-                                    <span class="h2 text-primary">+</span>
+                                    <span class="js-counter h2 text-danger">490000</span>
+                                    <span class="h2 text-danger">+</span>
                                     <p>palabras traducidas a <br> distintos idiomas</p>
                                 </div>
                             </div>
@@ -321,7 +321,7 @@
             <div class="container content-space-t-3">
                 <!-- Heading -->
                 <div class="w-md-75 w-lg-50 text-center mx-md-auto mb-3">
-                    <h2 class="text-primary">Tecnología en la nube con Nexus</h2>
+                    <h2 class="text-danger">Tecnología en la nube con Nexus</h2>
                 </div>
                 <!-- End Heading -->
                 <div class="text-center">
@@ -343,14 +343,14 @@
                                             src="icon-62.svg" alt="SVG">
 
 
-                                        <h4>Potenciada por humanos</h4>
+                                        <h4 class="text-test">Potenciada por humanos</h4>
                                         <p>Todas las traducciones son realizadas por traductores profesionales expertos
                                         </p>
                                     </div>
                                     <!-- End Col -->
 
                                     <div class="col-sm-12 col-lg-6 mb-3" data-aos="fade-left" data-aos-duration="750">
-                                        <span class="svg-icon text-primary mb-3">
+                                        <span class="svg-icon text-danger mb-3">
                                             <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
                                                 xmlns="http://www.w3.org/2000/svg">
                                                 <path opacity="0.3"
@@ -383,7 +383,7 @@
 
                                     <div class="col-sm-12 col-lg-6 mb-3 mb-sm-0" data-aos="fade-left"
                                         data-aos-duration="750">
-                                        <span class="svg-icon text-primary mb-3">
+                                        <span class="svg-icon text-danger mb-3">
                                             <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
                                                 xmlns="http://www.w3.org/2000/svg">
                                                 <path opacity="0.3" fill-rule="evenodd" clip-rule="evenodd"
@@ -403,7 +403,7 @@
                                     <!-- End Col -->
 
                                     <div class="col-sm-12 col-lg-6" data-aos="fade-left" data-aos-duration="750">
-                                        <span class="svg-icon text-primary mb-3">
+                                        <span class="svg-icon text-danger mb-3">
                                             <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
                                                 xmlns="http://www.w3.org/2000/svg">
                                                 <path
@@ -618,7 +618,7 @@
                     <!-- Heading -->
                     <div class="text-center mx-md-auto mb-5 mb-md-9">
                         <span class="text-cap" data-aos="fade-up">Comuniquese hoy</span>
-                        <h2 class="text-primary" data-aos="fade-up">¿A&uacute;n no toma la decisión de invertir en
+                        <h2 class="text-danger" data-aos="fade-up">¿A&uacute;n no toma la decisión de invertir en
                             Limac?</h2>
                     </div>
                     <!-- End Heading -->
@@ -627,7 +627,7 @@
                         <div class="row justify-content-lg-center align-items-md-center">
                             <div class="col-md-5 mb-7 mb-md-0">
                                 <!-- List Checked -->
-                                <ul class="list-checked list-checked-soft-bg-primary list-checked-lg mb-5">
+                                <ul class="list-checked list-checked-soft-bg-danger list-checked-lg mb-5">
                                     <li class="list-checked-item" data-aos="fade-up" data-aos-delay="100">+95 idiomas y
                                         dialectos</li>
                                     <li class="list-checked-item" data-aos="fade-up" data-aos-delay="200">Descuento por
@@ -650,7 +650,7 @@
                                     <!-- Card -->
                                     <div class="card">
                                         <div class="card-body">
-                                            <span class="svg-icon text-primary mb-4">
+                                            <span class="svg-icon text-danger mb-4">
                                                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path opacity="0.3"
@@ -663,7 +663,7 @@
 
                                             </span>
 
-                                            <h3 class="card-title text-primary">Satisfacción garantizada o le devolvemos
+                                            <h3 class="card-title text-danger">Satisfacción garantizada o le devolvemos
                                                 su dinero</h3>
                                             <p class="card-text">Rembolsamos hasta el 100% de su inversión si por
                                                 cualquier motivo no hemos
@@ -705,7 +705,7 @@
                                 <div class="card-body">
                                     <div class="d-flex">
                                         <div class="flex-shrink-0">
-                                            <span class="svg-icon text-primary">
+                                            <span class="svg-icon text-danger">
                                                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path fill-rule="evenodd" clip-rule="evenodd"
@@ -738,7 +738,7 @@
                                 <div class="card-body">
                                     <div class="d-flex">
                                         <div class="flex-shrink-0">
-                                            <span class="svg-icon text-primary">
+                                            <span class="svg-icon text-danger">
                                                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
                                                     xmlns="http://www.w3.org/2000/svg">
                                                     <path opacity="0.3" fill-rule="evenodd" clip-rule="evenodd"

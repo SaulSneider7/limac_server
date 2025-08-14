@@ -5,8 +5,9 @@
     <!-- Logo -->
     <div class="mb-5">
       <a class="navbar-brand" href="./index.html" aria-label="Space">
-        <span class="logo_create">limac</span>
-        <sub class="text-primary fs-5">&reg;</sub>
+        <!-- <span class="logo_create">limac</span>
+        <sub class="text-primary fs-5">&reg;</sub> -->
+        <img class="navbar-brand-logo" src="./assets/img/index/exyza_logo.png" alt="">
       </a>
     </div>
     <!-- End Logo -->

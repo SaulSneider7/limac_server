@@ -55,11 +55,11 @@ window.addEventListener("scroll", function () {
 
 // Utilidad para actualizar clases según el estado
 function updateHeaderStyle({ dark, logoWhite, btnWhite }) {
-    header.classList.toggle("navbar-dark", dark);
-    header.classList.toggle("navbar-light", !dark);
+    // header.classList.toggle("navbar-dark", dark);
+    // header.classList.toggle("navbar-light", !dark);
 
-    logo.classList.toggle("text-white", logoWhite);
+    // logo.classList.toggle("text-white", logoWhite);
 
-    btn_login.classList.toggle("btn-white", btnWhite);
-    btn_login.classList.toggle("btn-primary", !btnWhite);
+    // btn_login.classList.toggle("btn-white", btnWhite);
+    // btn_login.classList.toggle("btn-primary", !btnWhite);
 }
