@@ -3,8 +3,18 @@ const header = document.getElementById("header");
 const logo = document.getElementById("logo");
 const btn_login = document.getElementById("btn_login");
 
-const isContactoPage = window.location.pathname.includes("contacto.php");
-const isIndexPage = window.location.pathname.includes("index.php");
+const path = window.location.pathname;
+
+// Detectar contacto
+const isContactoPage = path.includes("contacto.php");
+
+// Detectar index aunque esté en subcarpetas
+const isIndexPage = path.endsWith("/") || path.includes("index.php");
+
+
+console.log('mi url es: ' + window.location.pathname);
+console.log(`isContactoPage: ${isContactoPage}, isIndexPage: ${isIndexPage}`);
+
 
 window.addEventListener("scroll", function () {
     const currentScroll = window.pageYOffset || document.documentElement.scrollTop;
