@@ -10,12 +10,6 @@
 </head>
 
 <body>
-    <!-- <div class="container pt-5 text-center">
-        <button class="btn btn-primary" onclick="cargarFF_comentario(0)">Cagar Archivo</button>
-        <textarea style="display:none;" id="ffSend_comentario_0"></textarea>
-        <textarea style="display:none;" id="ffSend_comentario_complete_0"></textarea>
-        <div style="margin-top:5px;" id="losFiles_comentario_0"></div>
-    </div> -->
 
     <div class="container pt-5 text-center">
         <button class="btn btn-primary" onclick="cargarFF_comentario(0)">Cargar Archivo</button>

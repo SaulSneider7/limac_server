@@ -20,10 +20,10 @@ function subirArchivo(file, idx) {
         contentType: false,
         processData: false,
         success: function (response) {
-            console.log("Respuesta cruda del servidor:", response); // <- siempre verás qué devuelve PHP
-
             try {
                 let res = JSON.parse(response);
+
+                console.log("Respuesta parseada del servidor:", res);
 
                 if (res.error) {
                     console.error("Error desde PHP:", res.error, "Código HTTP:", res.http_code);
@@ -36,12 +36,12 @@ function subirArchivo(file, idx) {
                     let ext = file_name.split('.').pop();
                     let short_name = (file_name.length > 10) ? file_name.substring(0, 6) + '...' + ext : file_name;
 
-                    let out = `<a target="_blank" href="${res.url}">
-                <button type="button" class="btn btn-default btn-sm" style="margin-right:5px;margin-bottom:5px;">
+                    let out = `<a class="btn" target="_blank" href="${res.url}">
+                <button type="button" class="btn btn-secondary btn-sm" style="margin-right:5px;margin-bottom:5px;">
                 <i class="fa fa-file-text" aria-hidden="true"></i> ${short_name}</button></a>`;
 
-                    let out_complete = `<a target="_blank" href="${res.url}">
-                <button type="button" class="btn btn-default btn-sm" style="margin-right:5px;margin-bottom:5px;">
+                    let out_complete = `<a class="btn" target="_blank" href="${res.url}">
+                <button type="button" class="btn btn-secondary btn-sm" style="margin-right:5px;margin-bottom:5px;">
                 <i class="fa fa-file-text" aria-hidden="true"></i> ${file_name}</button></a>`;
 
                     $("#losFiles_comentario_" + idx).append(out);

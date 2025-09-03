@@ -70,7 +70,7 @@
               <use xlink:href="#mainHeroSVG1" />
             </clipPath>
             <g transform="matrix(1 0 0 1 0 0)" clip-path="url(#mainHeroSVG2)">
-              <image width="750" height="750" xlink:href="./assets/img/750x750/img2.jpg"
+              <image width="750" height="750" xlink:href="./assets_2025/img/750x750/img2.jpg"
                 transform="matrix(1.4462 0 0 1.4448 52.8755 0)"></image>
             </g>
           </svg>
@@ -88,7 +88,7 @@
             <div class="container content-space-1">
               <div class="row align-items-md-center">
                 <div class="col-md-6" data-aos="fade-left">
-                  <img src="./assets/img/servicios/digital/img01.png" class="d-block w-85 mx-auto" alt="Imagen 1">
+                  <img src="./assets_2025/img/servicios/digital/img01.png" class="d-block w-85 mx-auto" alt="Imagen 1">
                 </div>
                 <div class="col-md-6 pt-5 pb-5">
                   <h2 class="text-primary pt-3 pb-2" data-aos="fade-up">Presentación de la traducción digital
@@ -144,7 +144,7 @@
             <!-- Card -->
             <div class="card card-sm h-100">
               <div class="p-2">
-                <img class="card-img" src="./assets/img/480x220/img1.jpg" alt="Image Description">
+                <img class="card-img" src="./assets_2025/img/480x220/img1.jpg" alt="Image Description">
               </div>
 
               <div class="card-body">
@@ -170,7 +170,7 @@
             <!-- Card -->
             <div class="card card-sm h-100">
               <div class="p-2">
-                <img class="card-img" src="./assets/img/480x220/img2.jpg" alt="Image Description">
+                <img class="card-img" src="./assets_2025/img/480x220/img2.jpg" alt="Image Description">
               </div>
 
               <div class="card-body">
@@ -196,7 +196,7 @@
             <!-- Card -->
             <div class="card card-sm h-100">
               <div class="p-2">
-                <img class="card-img" src="./assets/img/480x220/img3.jpg" alt="Image Description">
+                <img class="card-img" src="./assets_2025/img/480x220/img3.jpg" alt="Image Description">
               </div>
 
               <div class="card-body">
@@ -244,7 +244,7 @@
 
         <!-- Imagen -->
         <div class="col-md-5 d-none d-md-block">
-          <img src="./assets/img/servicios/traduccion/bkg0051.jpg" alt="Traductor profesional"
+          <img src="./assets_2025/img/servicios/traduccion/bkg0051.jpg" alt="Traductor profesional"
             class="img-fluid rounded-2">
         </div>
 

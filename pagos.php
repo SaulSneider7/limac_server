@@ -72,11 +72,11 @@
                     <!-- End Row -->
 
                     <div class="col-md-6 position-md-absolute top-0 end-0">
-                        <img class="img-fluid rounded-4" src="./assets/img/pagos/bkg0171.jpg" alt="Image Description">
+                        <img class="img-fluid rounded-4" src="./assets_2025/img/pagos/bkg0171.jpg" alt="Image Description">
 
                         <!-- SVG Shape -->
                         <div class="position-absolute bottom-0 end-0 zi-n1 mb-n10 me-n7" style="width: 12rem;">
-                            <img class="img-fluid" src="./assets/svg/components/dots-lg.svg" alt="Image Description">
+                            <img class="img-fluid" src="./assets_2025/svg/components/dots-lg.svg" alt="Image Description">
                         </div>
                         <!-- End SVG Shape -->
                     </div>
@@ -99,7 +99,7 @@
                                             <div class="step-content-wrapper">
                                                 <span class="step-icon step-icon-soft-primary">1</span>
                                                 <div class="step-content">
-                                                    <img src="./assets/img/pagos/04.png" alt="Paso 1"
+                                                    <img src="./assets_2025/img/pagos/04.png" alt="Paso 1"
                                                         class="img-fluid step-img">
                                                     <p class="py-3">Ir al banco y realizar el depósito a la cuenta
                                                         indicada en la cotización.</p>
@@ -112,7 +112,7 @@
                                             <div class="step-content-wrapper">
                                                 <span class="step-icon step-icon-soft-primary">2</span>
                                                 <div class="step-content">
-                                                    <img src="./assets/img/pagos/05.png" alt="Paso 2"
+                                                    <img src="./assets_2025/img/pagos/05.png" alt="Paso 2"
                                                         class="img-fluid step-img">
                                                     <p class="py-3">Enviar adjunto el voucher del depósito a
                                                         ventas@limac.com.pe.</p>
@@ -125,7 +125,7 @@
                                             <div class="step-content-wrapper">
                                                 <span class="step-icon step-icon-soft-primary">3</span>
                                                 <div class="step-content">
-                                                    <img src="./assets/img/pagos/03.png" alt="Paso 3"
+                                                    <img src="./assets_2025/img/pagos/03.png" alt="Paso 3"
                                                         class="img-fluid step-img">
                                                     <p class="py-3">Empezamos con el proceso de traducción de sus
                                                         documentos.</p>

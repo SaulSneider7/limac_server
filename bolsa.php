@@ -41,7 +41,7 @@
                     <!-- End Col -->
                     <div class="col-md-6">
                         <div class="position-relative my-3 mx-3">
-                            <img class="img-fluid rounded-2" src="assets/img/bolsa_carreras/bkg0181.jpg"
+                            <img class="img-fluid rounded-2" src="assets_2025/img/bolsa_carreras/bkg0181.jpg"
                                 alt="Image Description" data-aos="fade-right">
                             <div class="position-absolute top-0 end-0 w-100 h-100 bg-soft-primary rounded-2 zi-n1 mt-5 me-n5"
                                 data-aos="fade-right" data-aos-delay="150"></div>
@@ -72,7 +72,7 @@
                                     línea.</p>
                             </div>
                             <div class="col-md-6">
-                                <img src="./assets/img/bolsa_carreras/img_bolsa.png" class="d-block w-85 mx-auto"
+                                <img src="./assets_2025/img/bolsa_carreras/img_bolsa.png" class="d-block w-85 mx-auto"
                                     alt="Imagen 1">
                             </div>
                             <!-- End Col -->
@@ -225,7 +225,7 @@
 
                 <!-- Imagen -->
                 <div class="col-md-5 d-none d-md-block">
-                    <img src="./assets/img/bolsa_carreras/bkg0191.jpg" alt="Traductor profesional"
+                    <img src="./assets_2025/img/bolsa_carreras/bkg0191.jpg" alt="Traductor profesional"
                         class="img-fluid rounded-2">
                 </div>
 

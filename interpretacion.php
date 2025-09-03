@@ -34,7 +34,7 @@
                 </div>
 
                 <div class="w-75 mx-auto">
-                    <img class="img-fluid" src="./assets/img/servicios/interpretacion/conference.png"
+                    <img class="img-fluid" src="./assets_2025/img/servicios/interpretacion/conference.png"
                         alt="Image Description">
                 </div>
             </div>
@@ -61,7 +61,7 @@
                                 </div>
                                 <div class="col-md-6">
                                     <div class="container w-75 mt-5">
-                                        <img src="./assets/img/servicios/interpretacion/bkg0091.jpg"
+                                        <img src="./assets_2025/img/servicios/interpretacion/bkg0091.jpg"
                                             class="d-block w-85 mx-auto rounded-circle" alt="Imagen 1">
                                     </div>
                                 </div>
@@ -149,7 +149,7 @@
 
                 <!-- Imagen -->
                 <div class="col-md-5 d-none d-md-block">
-                    <img src="./assets/img/servicios/interpretacion/bkg0101.jpg" alt="Traductor profesional"
+                    <img src="./assets_2025/img/servicios/interpretacion/bkg0101.jpg" alt="Traductor profesional"
                         class="img-fluid rounded-2">
                 </div>
 

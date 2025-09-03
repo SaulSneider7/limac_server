@@ -1,35 +1,5 @@
 <?php
-// Mostrar siempre JSON en la salida
-header('Content-Type: application/json');
-
-// Mostrar errores en desarrollo
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
-
-// Manejadores globales de error/exception
-set_error_handler(function ($errno, $errstr, $errfile, $errline) {
-    http_response_code(500);
-    echo json_encode([
-        "error" => $errstr,
-        "file" => $errfile,
-        "line" => $errline
-    ]);
-    exit;
-});
-
-set_exception_handler(function ($e) {
-    http_response_code(500);
-    echo json_encode([
-        "error" => $e->getMessage(),
-        "file" => $e->getFile(),
-        "line" => $e->getLine()
-    ]);
-    exit;
-});
-
-// ⚠️ Ajusta la ruta al vendor según tu estructura
-require 'vendor/autoload.php';
+require '../vendor/autoload.php';
 
 use Aws\S3\S3Client;
 use Aws\Exception\AwsException;

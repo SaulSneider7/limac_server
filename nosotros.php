@@ -32,13 +32,13 @@
 
             <div class="row gx-3 gx-lg-4">
                 <div class="col-5 align-self-end">
-                    <img class="img-fluid rounded-2" src="./assets/img/750x750/img6.jpg" alt="Image Description">
+                    <img class="img-fluid rounded-2" src="./assets_2025/img/750x750/img6.jpg" alt="Image Description">
                 </div>
                 <!-- End Col -->
 
                 <div class="col-7">
                     <div class="ms-lg-4">
-                        <img class="img-fluid rounded-2" src="./assets/img/750x750/img1.jpg" alt="Image Description">
+                        <img class="img-fluid rounded-2" src="./assets_2025/img/750x750/img1.jpg" alt="Image Description">
                     </div>
                 </div>
                 <!-- End Col -->
@@ -349,7 +349,7 @@
                             <!-- Browser Device -->
                             <figure class="device-browser">
                                 <div class="device-browser-frame">
-                                    <img class="device-browser-img rounded-3" src="./assets/img/nosotros/bkg0161.jpg"
+                                    <img class="device-browser-img rounded-3" src="./assets_2025/img/nosotros/bkg0161.jpg"
                                         alt="Image Description">
                                 </div>
                             </figure>
@@ -360,7 +360,7 @@
                             <!-- Browser Device -->
                             <figure class="device-browser">
                                 <div class="device-browser-frame">
-                                    <img class="device-browser-img rounded-3" src="./assets/img/nosotros/bkg0161.jpg"
+                                    <img class="device-browser-img rounded-3" src="./assets_2025/img/nosotros/bkg0161.jpg"
                                         alt="Image Description">
                                 </div>
                             </figure>
@@ -372,7 +372,7 @@
                             <!-- Browser Device -->
                             <figure class="device-browser">
                                 <div class="device-browser-frame">
-                                    <img class="device-browser-img rounded-3" src="./assets/img/nosotros/bkg0161.jpg"
+                                    <img class="device-browser-img rounded-3" src="./assets_2025/img/nosotros/bkg0161.jpg"
                                         alt="Image Description">
                                 </div>
                             </figure>
@@ -401,18 +401,18 @@
             <div class="logo-slider">
                 <div class="logo-track"> 
                     <!-- Duplicamos para efecto infinito -->
-                    <div class="logo-item"><img src="./assets/img/nosotros/inacal.jpg" alt="INACAL"></div>
-                    <div class="logo-item"><img src="./assets/img/nosotros/lindegas.png" alt="Linde Gas"></div>
-                    <div class="logo-item"><img src="./assets/img/nosotros/msi.jpg" alt="MSI"></div>
-                    <div class="logo-item"><img src="./assets/img/nosotros/pcm.jpg" alt="PCM"></div>
-                    <div class="logo-item"><img src="./assets/img/nosotros/herbalife.png" alt="Herbalife"></div>
+                    <div class="logo-item"><img src="./assets_2025/img/nosotros/inacal.jpg" alt="INACAL"></div>
+                    <div class="logo-item"><img src="./assets_2025/img/nosotros/lindegas.png" alt="Linde Gas"></div>
+                    <div class="logo-item"><img src="./assets_2025/img/nosotros/msi.jpg" alt="MSI"></div>
+                    <div class="logo-item"><img src="./assets_2025/img/nosotros/pcm.jpg" alt="PCM"></div>
+                    <div class="logo-item"><img src="./assets_2025/img/nosotros/herbalife.png" alt="Herbalife"></div>
 
                     <!-- Duplicado para que el efecto sea continuo -->
-                    <div class="logo-item"><img src="./assets/img/nosotros/inacal.jpg" alt="INACAL"></div>
-                    <div class="logo-item"><img src="./assets/img/nosotros/lindegas.png" alt="Linde Gas"></div>
-                    <div class="logo-item"><img src="./assets/img/nosotros/msi.jpg" alt="MSI"></div>
-                    <div class="logo-item"><img src="./assets/img/nosotros/pcm.jpg" alt="PCM"></div>
-                    <div class="logo-item"><img src="./assets/img/nosotros/herbalife.png" alt="Herbalife"></div>
+                    <div class="logo-item"><img src="./assets_2025/img/nosotros/inacal.jpg" alt="INACAL"></div>
+                    <div class="logo-item"><img src="./assets_2025/img/nosotros/lindegas.png" alt="Linde Gas"></div>
+                    <div class="logo-item"><img src="./assets_2025/img/nosotros/msi.jpg" alt="MSI"></div>
+                    <div class="logo-item"><img src="./assets_2025/img/nosotros/pcm.jpg" alt="PCM"></div>
+                    <div class="logo-item"><img src="./assets_2025/img/nosotros/herbalife.png" alt="Herbalife"></div>
                 </div>
             </div>
         </div>

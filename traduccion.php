@@ -24,7 +24,7 @@
   <main id="content" role="main">
     <!-- Hero -->
     <div class="d-md-flex min-vh-md-100 bg-img-start"
-      style="background-image: linear-gradient(rgba(255, 247, 247, 0.123), rgba(148, 146, 146, 0.144)), url(./assets/img/servicios/traduccion/bkg0041.jpg);">
+      style="background-image: linear-gradient(rgba(255, 247, 247, 0.123), rgba(148, 146, 146, 0.144)), url(./assets_2025/img/servicios/traduccion/bkg0041.jpg);">
       <div
         class="container d-md-flex justify-content-md-center flex-md-column min-vh-md-100 content-space-3 content-space-md-0">
         <div class="w-sm-80 w-lg-50">
@@ -82,19 +82,19 @@
 
                       <div class="carousel-inner text-center">
                         <div class="carousel-item active">
-                          <img src="./assets/img/servicios/traduccion/TC01-1_NA.jpg" class="d-block w-75 mx-auto"
+                          <img src="./assets_2025/img/servicios/traduccion/TC01-1_NA.jpg" class="d-block w-75 mx-auto"
                             alt="Imagen 1">
                         </div>
                         <div class="carousel-item">
-                          <img src="./assets/img/servicios/traduccion/TC01-1_NA.jpg" class="d-block w-75 mx-auto"
+                          <img src="./assets_2025/img/servicios/traduccion/TC01-1_NA.jpg" class="d-block w-75 mx-auto"
                             alt="Imagen 2">
                         </div>
                         <div class="carousel-item">
-                          <img src="./assets/img/servicios/traduccion/TC01-1_NA.jpg" class="d-block w-75 mx-auto"
+                          <img src="./assets_2025/img/servicios/traduccion/TC01-1_NA.jpg" class="d-block w-75 mx-auto"
                             alt="Imagen 3">
                         </div>
                         <div class="carousel-item">
-                          <img src="./assets/img/servicios/traduccion/TC01-1_NA.jpg" class="d-block w-75 mx-auto"
+                          <img src="./assets_2025/img/servicios/traduccion/TC01-1_NA.jpg" class="d-block w-75 mx-auto"
                             alt="Imagen 4">
                         </div>
                       </div>
@@ -139,7 +139,7 @@
             <!-- Card -->
             <div class="card card-sm h-100">
               <div class="p-2">
-                <img class="card-img" src="./assets/img/480x220/img1.jpg" alt="Image Description">
+                <img class="card-img" src="./assets_2025/img/480x220/img1.jpg" alt="Image Description">
               </div>
 
               <div class="card-body">
@@ -165,7 +165,7 @@
             <!-- Card -->
             <div class="card card-sm h-100">
               <div class="p-2">
-                <img class="card-img" src="./assets/img/480x220/img2.jpg" alt="Image Description">
+                <img class="card-img" src="./assets_2025/img/480x220/img2.jpg" alt="Image Description">
               </div>
 
               <div class="card-body">
@@ -191,7 +191,7 @@
             <!-- Card -->
             <div class="card card-sm h-100">
               <div class="p-2">
-                <img class="card-img" src="./assets/img/480x220/img3.jpg" alt="Image Description">
+                <img class="card-img" src="./assets_2025/img/480x220/img3.jpg" alt="Image Description">
               </div>
 
               <div class="card-body">
@@ -240,7 +240,7 @@
 
         <!-- Imagen -->
         <div class="col-md-5 d-none d-md-block">
-          <img src="./assets/img/servicios/traduccion/bkg0051.jpg" alt="Traductor profesional"
+          <img src="./assets_2025/img/servicios/traduccion/bkg0051.jpg" alt="Traductor profesional"
             class="img-fluid rounded-2">
         </div>
 

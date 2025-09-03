@@ -38,14 +38,14 @@
             <div class="js-swiper-blog-journal-hero swiper">
                 <div class="swiper-wrapper">
                     <div class="js-swiper-slide-preload swiper-slide d-flex gradient-x-overlay-sm-dark bg-img-start"
-                        style="background-image: url(./assets/img/index/miraflores.jpeg);  background-size: cover;
+                        style="background-image: url(./assets_2025/img/index/miraflores.jpeg);  background-size: cover;
                         background-position: center;
                         background-repeat: no-repeat;
                         min-height: 40rem;" data-swiper-autoplay="5000">
 
                         <video autoplay muted loop playsinline
                             class="position-absolute w-100 h-100 object-fit-cover zi-n1">
-                            <source src="./assets/video/earth.mov" type="video/mp4">
+                            <source src="./assets_2025/video/earth.mov" type="video/mp4">
                             Tu navegador no soporta video HTML5.
                         </video>
 
@@ -67,14 +67,14 @@
                     </div>
 
                     <div class="js-swiper-slide-preload swiper-slide d-flex gradient-x-overlay-sm-dark bg-img-start"
-                        style="background-image: url(./assets/img/index/miraflores.jpeg);  background-size: cover;
+                        style="background-image: url(./assets_2025/img/index/miraflores.jpeg);  background-size: cover;
                         background-position: center;
                         background-repeat: no-repeat;
                         min-height: 40rem;" data-swiper-autoplay="5000">
 
                         <video autoplay muted loop playsinline
                             class="position-absolute w-100 h-100 object-fit-cover zi-n1">
-                            <source src="./assets/video/university.mov" type="video/mp4">
+                            <source src="./assets_2025/video/university.mov" type="video/mp4">
                             Tu navegador no soporta video HTML5.
                         </video>
                         <!-- Container -->
@@ -94,14 +94,14 @@
                     </div>
 
                     <div class="js-swiper-slide-preload swiper-slide d-flex gradient-x-overlay-sm-dark bg-img-start"
-                        style="background-image: url(./assets/img/index/miraflores.jpeg);  background-size: cover;
+                        style="background-image: url(./assets_2025/img/index/miraflores.jpeg);  background-size: cover;
                         background-position: center;
                         background-repeat: no-repeat;
                         min-height: 40rem;" data-swiper-autoplay="5000">
 
                         <video autoplay muted loop playsinline
                             class="position-absolute w-100 h-100 object-fit-cover zi-n1">
-                            <source src="./assets/video/madrid.mov" type="video/mp4">
+                            <source src="./assets_2025/video/madrid.mov" type="video/mp4">
                             Tu navegador no soporta video HTML5.
                         </video>
                         <!-- Container -->
@@ -199,7 +199,7 @@
                 <div class="col-md-3 mb-7">
                     <!-- Icon Blocks -->
                     <div class="text-center px-lg-3">
-                        <img src="./assets/img/index/icon-11.svg" class="mb-5" alt="" style="max-width: 4.5rem;">
+                        <img src="./assets_2025/img/index/icon-11.svg" class="mb-5" alt="" style="max-width: 4.5rem;">
 
                         <h4>Cumplimos con la fecha <br> entrega</h4>
                     </div>
@@ -210,7 +210,7 @@
                 <div class="col-md-3 mb-7">
                     <!-- Icon Blocks -->
                     <div class="text-center px-lg-3">
-                        <img src="./assets/img/index/icon-8.svg" class="mb-5" alt="" style="max-width: 4.5rem;">
+                        <img src="./assets_2025/img/index/icon-8.svg" class="mb-5" alt="" style="max-width: 4.5rem;">
 
                         <h4>Validez legal <br> internacional</h4>
                     </div>
@@ -221,7 +221,7 @@
                 <div class="col-md-3 mb-7">
                     <!-- Icon Blocks -->
                     <div class="text-center px-lg-3">
-                        <img src="./assets/img/index/icon-40.svg" class="mb-5" alt="" style="max-width: 4.5rem;">
+                        <img src="./assets_2025/img/index/icon-40.svg" class="mb-5" alt="" style="max-width: 4.5rem;">
 
                         <h4>Entrega por medio <br> digital y/o fisico</h4>
                     </div>
@@ -245,7 +245,7 @@
                         <div class="position-relative">
                             <div class="card card-transition d-flex flex-column justify-content-between bg-img-start h-100"
                                 style="min-height: 35rem; padding: 1.5rem;
-                                    background-image: url(./assets/img/index/bnn_nosotros.jpg);
+                                    background-image: url(./assets_2025/img/index/bnn_nosotros.jpg);
                                     background-size: cover;
                                     background-position: center;">
 
@@ -431,7 +431,7 @@
                                 <div class="card card-transition d-flex flex-column justify-content-between bg-img-start h-100"
                                     style="
                   min-height: 25rem; padding: 1.5rem; 
-                  background-image: linear-gradient(rgba(0, 0, 0, 0.315), rgba(0, 0, 0, 0.329)), url(./assets/img/index/silla.jpg); 
+                  background-image: linear-gradient(rgba(0, 0, 0, 0.315), rgba(0, 0, 0, 0.329)), url(./assets_2025/img/index/silla.jpg); 
                   background-size: cover; 
                   background-position: center;
                   " data-aos-delay="150">
@@ -454,7 +454,7 @@
                                 <!-- SVG Shape -->
                                 <figure class="position-absolute bottom-0 end-0 zi-n1 mb-n7 me-n7"
                                     style="width: 12rem;">
-                                    <img class="img-fluid" src="./assets/svg/components/dots-lg.svg" alt="SVG">
+                                    <img class="img-fluid" src="./assets_2025/svg/components/dots-lg.svg" alt="SVG">
                                 </figure>
                                 <!-- End SVG Shape -->
                             </div>
@@ -470,19 +470,19 @@
                     <div class="row justify-content-lg-between align-items-md-center">
                         <div class="col-md-6 mb-10 mb-md-1">
                             <div class="position-relative">
-                                <img class="img-fluid rounded-2" src="./assets/img/index/socosani5.png"
+                                <img class="img-fluid rounded-2" src="./assets_2025/img/index/socosani5.png"
                                     alt="Image Description">
 
                                 <!-- SVG Shape -->
                                 <figure class="position-absolute top-0 start-0 zi-n1 mt-n7 ms-n7" style="width: 12rem;">
-                                    <img class="img-fluid" src="./assets/svg/components/dots-lg.svg" alt="SVG">
+                                    <img class="img-fluid" src="./assets_2025/svg/components/dots-lg.svg" alt="SVG">
                                 </figure>
                                 <!-- End SVG Shape -->
 
                                 <!-- SVG Shape -->
                                 <figure class="position-absolute bottom-0 end-0 zi-n1 mb-n7 me-n7"
                                     style="width: 12rem;">
-                                    <img class="img-fluid" src="./assets/svg/components/dots-lg.svg" alt="SVG">
+                                    <img class="img-fluid" src="./assets_2025/svg/components/dots-lg.svg" alt="SVG">
                                 </figure>
                                 <!-- End SVG Shape -->
                             </div>
@@ -490,7 +490,7 @@
 
                         <div class="col-md-6 col-lg-5">
                             <div class="mb-4">
-                                <img class="avatar avatar-xl avatar-4x3" src="./assets/img/index/socosani4.png"
+                                <img class="avatar avatar-xl avatar-4x3" src="./assets_2025/img/index/socosani4.png"
                                     alt="Image Description">
                             </div>
 
@@ -676,14 +676,14 @@
                                     <!-- SVG Shape -->
                                     <figure class="position-absolute top-0 start-0 zi-n1 mt-n7 ms-n7"
                                         style="width: 12rem;">
-                                        <img class="img-fluid" src="./assets/svg/components/dots-lg.svg" alt="SVG">
+                                        <img class="img-fluid" src="./assets_2025/svg/components/dots-lg.svg" alt="SVG">
                                     </figure>
                                     <!-- End SVG Shape -->
 
                                     <!-- SVG Shape -->
                                     <figure class="position-absolute bottom-0 end-0 zi-n1 mb-n7 me-n7"
                                         style="width: 12rem;">
-                                        <img class="img-fluid" src="./assets/svg/components/dots-lg.svg" alt="SVG">
+                                        <img class="img-fluid" src="./assets_2025/svg/components/dots-lg.svg" alt="SVG">
                                     </figure>
                                     <!-- End SVG Shape -->
                                 </div>
@@ -783,25 +783,25 @@
     <!-- End Go To -->
 
     <!-- JS Global Compulsory  -->
-    <script src="./assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="./assets_2025/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 
     <!-- JS Implementing Plugins -->
-    <script src="./assets/vendor/hs-header/dist/hs-header.min.js"></script>
-    <script src="./assets/vendor/hs-mega-menu/dist/hs-mega-menu.min.js"></script>
-    <script src="./assets/vendor/hs-show-animation/dist/hs-show-animation.min.js"></script>
-    <script src="./assets/vendor/hs-go-to/dist/hs-go-to.min.js"></script>
-    <script src="./assets/vendor/aos/dist/aos.js"></script>
-    <script src="./assets/vendor/swiper/swiper-bundle.min.js"></script>
-    <script src="./assets/vendor/appear/dist/appear.min.js"></script>
-    <script src="./assets/vendor/circles.js/circles.js"></script>
-    <script src="./assets/vendor/hs-sticky-block/dist/hs-sticky-block.min.js"></script>
-    <script src="./assets/vendor/hs-counter/dist/hs-counter.min.js"></script>
+    <script src="./assets_2025/vendor/hs-header/dist/hs-header.min.js"></script>
+    <script src="./assets_2025/vendor/hs-mega-menu/dist/hs-mega-menu.min.js"></script>
+    <script src="./assets_2025/vendor/hs-show-animation/dist/hs-show-animation.min.js"></script>
+    <script src="./assets_2025/vendor/hs-go-to/dist/hs-go-to.min.js"></script>
+    <script src="./assets_2025/vendor/aos/dist/aos.js"></script>
+    <script src="./assets_2025/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="./assets_2025/vendor/appear/dist/appear.min.js"></script>
+    <script src="./assets_2025/vendor/circles.js/circles.js"></script>
+    <script src="./assets_2025/vendor/hs-sticky-block/dist/hs-sticky-block.min.js"></script>
+    <script src="./assets_2025/vendor/hs-counter/dist/hs-counter.min.js"></script>
 
     <!-- JS Front -->
-    <script src="./assets/js/theme.min.js"></script>
+    <script src="./assets_2025/js/theme.min.js"></script>
 
     <!-- My script -->
-    <script src="./assets/js/script.js?v=<?php echo rand(); ?>"></script>
+    <script src="./assets_2025/js/script.js?v=<?php echo rand(); ?>"></script>
 
     <!-- JS Plugins Init. -->
     <script>

@@ -24,7 +24,7 @@
     <main id="content" role="main">
         <!-- Hero -->
         <div class="position-relative bg-img-start"
-            style="background-image: url(./assets/img/servicios/interpretacion-consecutiva/bkg0112.jpg);">
+            style="background-image: url(./assets_2025/img/servicios/interpretacion-consecutiva/bkg0112.jpg);">
             <div class="container content-space-t-3 content-space-t-md-5 content-space-3 content-space-b-lg-5">
                 <div class="w-lg-50">
                     <h1 class="display-4 mb-3 text-white">
@@ -65,7 +65,7 @@
         <div class="container content-space-2">
             <div class="row justify-content-md-between align-items-sm-center">
                 <div class="col-8 col-sm-6 col-md-5 mb-5 mb-sm-0">
-                    <img class="img-fluid" src="./assets/img/servicios/interpretacion-consecutiva/conference.png"
+                    <img class="img-fluid" src="./assets_2025/img/servicios/interpretacion-consecutiva/conference.png"
                         alt="Image Description" data-aos="fade-right">
                 </div>
                 <!-- End Col -->
@@ -98,7 +98,7 @@
                         <!-- Card -->
                         <div class="card card-sm h-100">
                             <div class="p-2">
-                                <img class="card-img" src="./assets/img/480x220/img1.jpg" alt="Image Description">
+                                <img class="card-img" src="./assets_2025/img/480x220/img1.jpg" alt="Image Description">
                             </div>
 
                             <div class="card-body">
@@ -126,7 +126,7 @@
                         <!-- Card -->
                         <div class="card card-sm h-100">
                             <div class="p-2">
-                                <img class="card-img" src="./assets/img/480x220/img2.jpg" alt="Image Description">
+                                <img class="card-img" src="./assets_2025/img/480x220/img2.jpg" alt="Image Description">
                             </div>
 
                             <div class="card-body">
@@ -156,7 +156,7 @@
                         <!-- Card -->
                         <div class="card card-sm h-100">
                             <div class="p-2">
-                                <img class="card-img" src="./assets/img/480x220/img3.jpg" alt="Image Description">
+                                <img class="card-img" src="./assets_2025/img/480x220/img3.jpg" alt="Image Description">
                             </div>
 
                             <div class="card-body">
@@ -202,7 +202,7 @@
 
                 <!-- Imagen -->
                 <div class="col-md-5 d-none d-md-block">
-                    <img src="./assets/img/servicios/oficial/bkg0081.jpg" alt="Traductor profesional"
+                    <img src="./assets_2025/img/servicios/oficial/bkg0081.jpg" alt="Traductor profesional"
                         class="img-fluid rounded-2">
                 </div>
 

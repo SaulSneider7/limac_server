@@ -6,7 +6,7 @@
         <a class="navbar-brand" href="./index.php" aria-label="Front">
           <!-- <span id="logo" class="logo_create text-white">limac</span>
           <sub class="text-white">&reg;</sub> -->
-          <img class="navbar-brand-logo" src="./assets/img/index/exyza_logo.png" alt="">
+          <img class="navbar-brand-logo" src="./assets_2025/img/index/exyza_logo.png" alt="">
         </a>
         <!-- End Default Logo -->
 
@@ -43,7 +43,7 @@
                           <a class="navbar-dropdown-menu-promo-link active" href="./traduccion-digital.php">
                             <div class="d-flex">
                               <div class="flex-shrink-0">
-                                <span class="svg-icon svg-icon-sm text-danger">
+                                <span class="svg-icon svg-icon-sm text-primary">
                                   <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
                                     xmlns="http://www.w3.org/2000/svg">
                                     <path
@@ -70,7 +70,7 @@
                           <a class="navbar-dropdown-menu-promo-link" href="./traduccion.php">
                             <div class="d-flex">
                               <div class="flex-shrink-0">
-                                <span class="svg-icon svg-icon-sm text-danger">
+                                <span class="svg-icon svg-icon-sm text-primary">
                                   <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
                                     xmlns="http://www.w3.org/2000/svg">
                                     <path fill-rule="evenodd" clip-rule="evenodd"
@@ -102,7 +102,7 @@
                           <a class="navbar-dropdown-menu-promo-link" href="./traduccion-oficial.php">
                             <div class="d-flex">
                               <div class="flex-shrink-0">
-                                <span class="svg-icon svg-icon-sm text-danger">
+                                <span class="svg-icon svg-icon-sm text-primary">
                                   <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
                                     xmlns="http://www.w3.org/2000/svg">
                                     <path d="M20 19H4C2.9 19 2 18.1 2 17H22C22 18.1 21.1 19 20 19Z" fill="#035A4B" />
@@ -137,7 +137,7 @@
                           <a class="navbar-dropdown-menu-promo-link" href="./interpretacion.php">
                             <div class="d-flex">
                               <div class="flex-shrink-0">
-                                <span class="svg-icon svg-icon-sm text-danger">
+                                <span class="svg-icon svg-icon-sm text-primary">
                                   <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
                                     xmlns="http://www.w3.org/2000/svg">
                                     <path opacity="0.3" d="M20 22H4C3.4 22 3 21.6 3 21V2H21V21C21 21.6 20.6 22 20 22Z"
@@ -168,7 +168,7 @@
                           <a class="navbar-dropdown-menu-promo-link" href="./interpretacion-consecutiva.php">
                             <div class="d-flex">
                               <div class="flex-shrink-0">
-                                <span class="svg-icon svg-icon-sm text-danger">
+                                <span class="svg-icon svg-icon-sm text-primary">
                                   <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
                                     xmlns="http://www.w3.org/2000/svg">
                                     <path fill-rule="evenodd" clip-rule="evenodd"
@@ -195,7 +195,7 @@
                           <a class="navbar-dropdown-menu-promo-link" href="" target="_blank">
                             <div class="d-flex">
                               <div class="flex-shrink-0">
-                                <span class="svg-icon svg-icon-sm text-danger">
+                                <span class="svg-icon svg-icon-sm text-primary">
                                   <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
                                     xmlns="http://www.w3.org/2000/svg">
                                     <path opacity="0.3" fill-rule="evenodd" clip-rule="evenodd"
@@ -230,7 +230,7 @@
                     <div class="col-lg-6 d-none d-lg-block">
                       <!-- Banner Image -->
                       <div class="navbar-dropdown-menu-banner"
-                        style="background-image: url(./assets/svg/components/shape-3.svg);">
+                        style="background-image: url(./assets_2025/svg/components/shape-3.svg);">
                         <div class="navbar-dropdown-menu-banner-content">
                           <div class="mb-4">
                             <span class="h2 d-block">Interp. Consecutiva</span>

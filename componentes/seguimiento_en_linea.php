@@ -6,7 +6,7 @@
                     <!-- Mobile Device -->
                     <figure class="device-mobile mx-auto">
                         <div class="device-mobile-frame">
-                            <img class="device-mobile-img" src="./assets/img/nexus/Nexus_mobile_historial.jpeg"
+                            <img class="device-mobile-img" src="./assets_2025/img/nexus/Nexus_mobile_historial.jpeg"
                                 alt="Image Description">
                         </div>
                     </figure>
@@ -14,19 +14,19 @@
 
                     <!-- Image -->
                     <!-- <div class="position-absolute top-0 end-0 zi-2 me-n10 mt-9" style="width: 16rem;">
-                <img class="img-fluid shadow-lg rounded-2" src="./assets/img/407x115/img1.jpg" alt="Image Description">
+                <img class="img-fluid shadow-lg rounded-2" src="./assets_2025/img/407x115/img1.jpg" alt="Image Description">
               </div> -->
                     <!-- End Image -->
 
                     <!-- Image -->
                     <!-- <div class="position-absolute bottom-0 start-0 zi-2 ms-n10 mb-10" style="width: 16rem;">
-                <img class="img-fluid shadow-lg rounded-2" src="./assets/img/480x320/img26.jpg" alt="Image Description">
+                <img class="img-fluid shadow-lg rounded-2" src="./assets_2025/img/480x320/img26.jpg" alt="Image Description">
               </div> -->
                     <!-- End Image -->
 
                     <!-- SVG Shape -->
                     <!-- <div class="position-absolute bottom-0 end-0 zi-n1 mx-auto" style="width: 20rem;">
-                <img class="img-fluid" src="./assets/svg/components/shape-1.svg" alt="SVG">
+                <img class="img-fluid" src="./assets_2025/svg/components/shape-1.svg" alt="SVG">
               </div> -->
                     <!-- End SVG Shape -->
                 </div>

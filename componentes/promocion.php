@@ -10,7 +10,7 @@
                 </div>
 
                 <!-- Imagen promocional -->
-                <img class="" src="./assets/img/nexus/delivery_express.png" alt="Promoción Nexus"
+                <img class="" src="./assets_2025/img/nexus/delivery_express.png" alt="Promoción Nexus"
                     style="max-width: 200px;">
 
                 <!-- Mensaje de promoción -->
@@ -41,7 +41,7 @@
             <!-- SVG decorativo -->
             <div class="position-absolute bottom-0 start-0 w-100" style="max-width: 7rem;">
                 <div class="mb-n7 ms-n7">
-                    <img class="img-fluid" src="./assets/svg/components/dots.svg" alt="Decorativo">
+                    <img class="img-fluid" src="./assets_2025/svg/components/dots.svg" alt="Decorativo">
                 </div>
             </div>
         </div>

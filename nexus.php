@@ -52,7 +52,7 @@
             <!-- Tablet Device -->
             <figure class="device-tablet" style="width: 27rem;" data-aos="fade-up-left" data-aos-delay="100">
               <div class="device-tablet-frame">
-                <img class="device-tablet-img" src="./assets/img/nexus/nexus_traduccion.jpg" alt="Image Description">
+                <img class="device-tablet-img" src="./assets_2025/img/nexus/nexus_traduccion.jpg" alt="Image Description">
               </div>
             </figure>
             <!-- End Tablet Device -->
@@ -60,7 +60,7 @@
             <!-- Vertical Tablet Device -->
             <figure class="device-vertical-tablet" style="width: 18rem;" data-aos="fade-up-left" data-aos-delay="150">
               <div class="device-vertical-tablet-frame">
-                <img class="device-vertical-tablet-img" src="./assets/img/nexus/Nexus_cliente_historial.jpg"
+                <img class="device-vertical-tablet-img" src="./assets_2025/img/nexus/Nexus_cliente_historial.jpg"
                   alt="Image Description">
               </div>
             </figure>
@@ -70,7 +70,7 @@
             <figure class="device-mobile align-self-start" style="width: 10rem;" data-aos="fade-up-left"
               data-aos-delay="200">
               <div class="device-mobile-frame">
-                <img class="device-mobile-img" src="./assets/img/nexus/Nexus_mobile.jpeg" alt="Image Description">
+                <img class="device-mobile-img" src="./assets_2025/img/nexus/Nexus_mobile.jpeg" alt="Image Description">
               </div>
             </figure>
             <!-- End Mobile Device -->
@@ -86,7 +86,7 @@
                 <div class="device-browser-header-browser-bar">www.phpstream.com/front/</div>
               </div>
               <div class="device-browser-frame">
-                <img class="device-browser-img" src="./assets/img/nexus/nexus_cliente.jpg" alt="Image Description">
+                <img class="device-browser-img" src="./assets_2025/img/nexus/nexus_cliente.jpg" alt="Image Description">
               </div>
             </figure>
             <!-- End Browser Device -->
@@ -121,7 +121,7 @@
             <!-- Card -->
             <div class="position-relative pe-lg-4">
               <a class="card card-transition shadow-none bg-img-start" href="#"
-                style="background-image: url(./assets/img/400x500/img26.jpg); min-height: 27rem;">
+                style="background-image: url(./assets_2025/img/400x500/img26.jpg); min-height: 27rem;">
                 <div class="card-body">
                   <h4 class="card-title">Nexus</h4>
                   <p class="card-text text-body">Servicio de traducción de alta calidad</p>
@@ -134,7 +134,7 @@
 
               <!-- SVG Shape -->
               <div class="position-absolute bottom-0 start-0 zi-n1 mb-n7 ms-n7" style="width: 12rem;">
-                <img class="w-100" src="./assets/svg/components/dots-lg.svg" alt="SVG">
+                <img class="w-100" src="./assets_2025/svg/components/dots-lg.svg" alt="SVG">
               </div>
               <!-- End SVG Shape -->
             </div>
@@ -295,7 +295,7 @@
               <!-- Card -->
               <div class="card bg-soft-success text-center">
                 <div class="mx-auto">
-                  <img class="img-fluid rounded-top-3" src="./assets/img/nexus/bkg0141.jpg" alt="Image Description">
+                  <img class="img-fluid rounded-top-3" src="./assets_2025/img/nexus/bkg0141.jpg" alt="Image Description">
                 </div>
               </div>
               <!-- End Card -->
@@ -343,16 +343,16 @@
 
         <!-- Galería de métodos de pago -->
         <div class="d-flex flex-wrap justify-content-center align-items-center gap-9">
-          <img src="./assets/img/metodos_pago/visa.png" class="img-fluid" style="max-height: 100px;" alt="Visa">
-          <img src="./assets/img/metodos_pago/mastercard.png" class="img-fluid" style="max-height: 100px;"
+          <img src="./assets_2025/img/metodos_pago/visa.png" class="img-fluid" style="max-height: 100px;" alt="Visa">
+          <img src="./assets_2025/img/metodos_pago/mastercard.png" class="img-fluid" style="max-height: 100px;"
             alt="Mastercard">
-          <img src="./assets/img/metodos_pago/americanexpress.png" class="img-fluid" style="max-height: 100px;"
+          <img src="./assets_2025/img/metodos_pago/americanexpress.png" class="img-fluid" style="max-height: 100px;"
             alt="American Express">
-          <img src="./assets/img/metodos_pago/paypal_logo.png" class="img-fluid" style="max-height: 100px;"
+          <img src="./assets_2025/img/metodos_pago/paypal_logo.png" class="img-fluid" style="max-height: 100px;"
             alt="PayPal">
-          <img src="./assets/img/metodos_pago/diners.png" class="img-fluid" style="max-height: 100px;"
+          <img src="./assets_2025/img/metodos_pago/diners.png" class="img-fluid" style="max-height: 100px;"
             alt="Diners Club">
-          <img src="./assets/img/metodos_pago/payu_logo.png" class="img-fluid" style="max-height: 100px;" alt="PayU">
+          <img src="./assets_2025/img/metodos_pago/payu_logo.png" class="img-fluid" style="max-height: 100px;" alt="PayU">
         </div>
       </div>
     </section>
@@ -375,7 +375,7 @@
             </div>
 
             <!-- Imagen promocional -->
-            <img class="" src="./assets/img/nexus/delivery_express.png" alt="Promoción Nexus" style="max-width: 200px;">
+            <img class="" src="./assets_2025/img/nexus/delivery_express.png" alt="Promoción Nexus" style="max-width: 200px;">
 
             <!-- Mensaje de promoción -->
             <figure class="w-md-80 w-lg-60 mx-auto">
@@ -404,7 +404,7 @@
           <!-- SVG decorativo -->
           <div class="position-absolute bottom-0 start-0 w-100" style="max-width: 7rem;">
             <div class="mb-n7 ms-n7">
-              <img class="img-fluid" src="./assets/svg/components/dots.svg" alt="Decorativo">
+              <img class="img-fluid" src="./assets_2025/svg/components/dots.svg" alt="Decorativo">
             </div>
           </div>
         </div>

@@ -26,7 +26,7 @@
                         <!-- Browser Device -->
                         <figure class="device-browser-frame rotated-3d-left">
                             <div class="device-browser-frame">
-                                <img class="device-browser-img" src="./assets/img/nexus/nexus_bkg15001.jpg"
+                                <img class="device-browser-img" src="./assets_2025/img/nexus/nexus_bkg15001.jpg"
                                     alt="Image Description">
                             </div>
                         </figure>
@@ -39,7 +39,7 @@
                 data-aos-duration="3500">
                 <figure class="device-browser-frame rotated-3d-left">
                   <div class="device-browser-frame">
-                    <img class="device-browser-img" src="./assets/img/nexus/nexus_historial.png"
+                    <img class="device-browser-img" src="./assets_2025/img/nexus/nexus_historial.png"
                       alt="Image Description">
                   </div>
                 </figure>

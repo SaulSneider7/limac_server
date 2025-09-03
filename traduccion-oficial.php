@@ -49,7 +49,7 @@
 
                     <div class="col-md-6">
                         <div class="position-relative">
-                            <img class="img-fluid rounded-2" src="./assets/img/servicios/oficial/bkg0071.jpg"
+                            <img class="img-fluid rounded-2" src="./assets_2025/img/servicios/oficial/bkg0071.jpg"
                                 alt="Image Description">
                             <div
                                 class="position-absolute top-0 end-0 w-100 h-100 bg-soft-primary rounded-2 zi-n1 mt-5 me-n5">
@@ -75,12 +75,12 @@
 
                                     <div class="carousel-inner text-center">
                                         <div class="carousel-item active">
-                                            <img src="./assets/img/servicios/oficial/001.jpg"
+                                            <img src="./assets_2025/img/servicios/oficial/001.jpg"
                                                 class="d-block w-75 mx-auto" alt="Imagen 1">
                                             <!-- SVG Shape -->
                                             <figure class="position-absolute top-0 start-0 zi-n1 mt-n7 ms-n7"
                                                 style="width: 9rem;">
-                                                <img class="img-fluid" src="./assets/svg/components/dots-lg.svg"
+                                                <img class="img-fluid" src="./assets_2025/svg/components/dots-lg.svg"
                                                     alt="SVG">
                                             </figure>
                                             <!-- End SVG Shape -->
@@ -88,18 +88,18 @@
                                             <!-- SVG Shape -->
                                             <figure class="position-absolute bottom-0 end-0 zi-n1 mb-n7 me-n7"
                                                 style="width: 9rem;">
-                                                <img class="img-fluid" src="./assets/svg/components/dots-lg.svg"
+                                                <img class="img-fluid" src="./assets_2025/svg/components/dots-lg.svg"
                                                     alt="SVG">
                                             </figure>
                                             <!-- End SVG Shape -->
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="./assets/img/servicios/oficial/001.jpg"
+                                            <img src="./assets_2025/img/servicios/oficial/001.jpg"
                                                 class="d-block w-75 mx-auto" alt="Imagen 2">
                                             <!-- SVG Shape -->
                                             <figure class="position-absolute top-0 start-0 zi-n1 mt-n7 ms-n7"
                                                 style="width: 9rem;">
-                                                <img class="img-fluid" src="./assets/svg/components/dots-lg.svg"
+                                                <img class="img-fluid" src="./assets_2025/svg/components/dots-lg.svg"
                                                     alt="SVG">
                                             </figure>
                                             <!-- End SVG Shape -->
@@ -107,18 +107,18 @@
                                             <!-- SVG Shape -->
                                             <figure class="position-absolute bottom-0 end-0 zi-n1 mb-n7 me-n7"
                                                 style="width: 9rem;">
-                                                <img class="img-fluid" src="./assets/svg/components/dots-lg.svg"
+                                                <img class="img-fluid" src="./assets_2025/svg/components/dots-lg.svg"
                                                     alt="SVG">
                                             </figure>
                                             <!-- End SVG Shape -->
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="./assets/img/servicios/oficial/001.jpg"
+                                            <img src="./assets_2025/img/servicios/oficial/001.jpg"
                                                 class="d-block w-75 mx-auto" alt="Imagen 3">
                                             <!-- SVG Shape -->
                                             <figure class="position-absolute top-0 start-0 zi-n1 mt-n7 ms-n7"
                                                 style="width: 9rem;">
-                                                <img class="img-fluid" src="./assets/svg/components/dots-lg.svg"
+                                                <img class="img-fluid" src="./assets_2025/svg/components/dots-lg.svg"
                                                     alt="SVG">
                                             </figure>
                                             <!-- End SVG Shape -->
@@ -126,18 +126,18 @@
                                             <!-- SVG Shape -->
                                             <figure class="position-absolute bottom-0 end-0 zi-n1 mb-n7 me-n7"
                                                 style="width: 9rem;">
-                                                <img class="img-fluid" src="./assets/svg/components/dots-lg.svg"
+                                                <img class="img-fluid" src="./assets_2025/svg/components/dots-lg.svg"
                                                     alt="SVG">
                                             </figure>
                                             <!-- End SVG Shape -->
                                         </div>
                                         <div class="carousel-item">
-                                            <img src="./assets/img/servicios/oficial/001.jpg"
+                                            <img src="./assets_2025/img/servicios/oficial/001.jpg"
                                                 class="d-block w-75 mx-auto" alt="Imagen 4">
                                             <!-- SVG Shape -->
                                             <figure class="position-absolute top-0 start-0 zi-n1 mt-n7 ms-n7"
                                                 style="width: 9rem;">
-                                                <img class="img-fluid" src="./assets/svg/components/dots-lg.svg"
+                                                <img class="img-fluid" src="./assets_2025/svg/components/dots-lg.svg"
                                                     alt="SVG">
                                             </figure>
                                             <!-- End SVG Shape -->
@@ -145,7 +145,7 @@
                                             <!-- SVG Shape -->
                                             <figure class="position-absolute bottom-0 end-0 zi-n1 mb-n7 me-n7"
                                                 style="width: 9rem;">
-                                                <img class="img-fluid" src="./assets/svg/components/dots-lg.svg"
+                                                <img class="img-fluid" src="./assets_2025/svg/components/dots-lg.svg"
                                                     alt="SVG">
                                             </figure>
                                             <!-- End SVG Shape -->
@@ -220,7 +220,7 @@
                         <!-- Card -->
                         <div class="card card-sm h-100">
                             <div class="p-2">
-                                <img class="card-img" src="./assets/img/480x220/img1.jpg" alt="Image Description">
+                                <img class="card-img" src="./assets_2025/img/480x220/img1.jpg" alt="Image Description">
                             </div>
 
                             <div class="card-body">
@@ -247,7 +247,7 @@
                         <!-- Card -->
                         <div class="card card-sm h-100">
                             <div class="p-2">
-                                <img class="card-img" src="./assets/img/480x220/img2.jpg" alt="Image Description">
+                                <img class="card-img" src="./assets_2025/img/480x220/img2.jpg" alt="Image Description">
                             </div>
 
                             <div class="card-body">
@@ -274,7 +274,7 @@
                         <!-- Card -->
                         <div class="card card-sm h-100">
                             <div class="p-2">
-                                <img class="card-img" src="./assets/img/480x220/img3.jpg" alt="Image Description">
+                                <img class="card-img" src="./assets_2025/img/480x220/img3.jpg" alt="Image Description">
                             </div>
 
                             <div class="card-body">
@@ -325,7 +325,7 @@
 
                 <!-- Imagen -->
                 <div class="col-md-5 d-none d-md-block">
-                    <img src="./assets/img/servicios/oficial/bkg0081.jpg" alt="Traductor profesional"
+                    <img src="./assets_2025/img/servicios/oficial/bkg0081.jpg" alt="Traductor profesional"
                         class="img-fluid rounded-2">
                 </div>
 

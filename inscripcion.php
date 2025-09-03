@@ -463,7 +463,7 @@
                                                 style="display:none;">
                                                 <div class="text-center">
                                                     <img class="img-fluid mb-3"
-                                                        src="./assets/svg/illustrations/oc-hi-five.svg"
+                                                        src="./assets_2025/svg/illustrations/oc-hi-five.svg"
                                                         alt="Image Description" style="max-width: 15rem;">
 
                                                     <div class="mb-4">
@@ -494,7 +494,7 @@
             </div>
             <!-- SVG Background Shape -->
             <div class="position-absolute bottom-0 start-0 end-0">
-                <img class="img-fluid" src="./assets/svg/components/isometric-squares-light.svg"
+                <img class="img-fluid" src="./assets_2025/svg/components/isometric-squares-light.svg"
                     alt="Image Description">
             </div>
             <!-- End SVG Background Shape -->

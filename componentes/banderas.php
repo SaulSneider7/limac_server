@@ -6,7 +6,7 @@
                     <div class="col-3 mb-4">
                         <!-- Logo -->
                         <div class="d-block rounded-circle shadow-sm mt-n3 ms-5" data-aos="fade-up">
-                            <img class="avatar-img" src="./assets/img/servicios/traduccion/bandera1.png"
+                            <img class="avatar-img" src="./assets_2025/img/servicios/traduccion/bandera1.png"
                                 alt="Image Description">
                         </div>
                         <!-- End Logo -->
@@ -15,7 +15,7 @@
                         <!-- Logo -->
                         <div class="d-block rounded-circle pl-3 shadow-sm mx-auto mt-5" data-aos="fade-up"
                             data-aos-delay="50">
-                            <img class="avatar-img" src="./assets/img/servicios/traduccion/bandera2.png"
+                            <img class="avatar-img" src="./assets_2025/img/servicios/traduccion/bandera2.png"
                                 alt="Image Description">
                         </div>
                         <!-- End Logo -->
@@ -23,7 +23,7 @@
                     <div class="col-4 mb-4">
                         <!-- Logo -->
                         <div class="d-block rounded-circle shadow-sm ms-auto" data-aos="fade-up" data-aos-delay="150">
-                            <img class="avatar-img" src="./assets/img/servicios/traduccion/bandera3.png"
+                            <img class="avatar-img" src="./assets_2025/img/servicios/traduccion/bandera3.png"
                                 alt="Image Description">
                         </div>
                         <!-- End Logo -->
@@ -34,7 +34,7 @@
                     <div class="col-3 offset-1 my-4">
                         <!-- Logo -->
                         <div class="d-block rounded-circle shadow-sm ms-auto" data-aos="fade-up" data-aos-delay="200">
-                            <img class="avatar-img avatar-centered" src="./assets/img/servicios/traduccion/bandera4.png"
+                            <img class="avatar-img avatar-centered" src="./assets_2025/img/servicios/traduccion/bandera4.png"
                                 alt="Image Description">
                         </div>
                         <!-- End Logo -->
@@ -42,7 +42,7 @@
                     <div class="col-3 offset-2 my-4">
                         <!-- Logo -->
                         <div class="d-block rounded-circle shadow-sm ms-auto" data-aos="fade-up" data-aos-delay="250">
-                            <img class="avatar-img" src="./assets/img/servicios/traduccion/bandera5.png"
+                            <img class="avatar-img" src="./assets_2025/img/servicios/traduccion/bandera5.png"
                                 alt="Image Description">
                         </div>
                         <!-- End Logo -->
@@ -53,7 +53,7 @@
                     <div class="col-6">
                         <!-- Logo -->
                         <div class="d-block rounded-circle shadow-sm ms-auto" data-aos="fade-up" data-aos-delay="300">
-                            <img class="avatar-img" src="./assets/img/servicios/traduccion/bandera6.png"
+                            <img class="avatar-img" src="./assets_2025/img/servicios/traduccion/bandera6.png"
                                 alt="Image Description">
                         </div>
                         <!-- End Logo -->

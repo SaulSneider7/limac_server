@@ -333,7 +333,7 @@
 
             <!-- SVG Background Shape -->
             <div class="position-absolute bottom-0 start-0 end-0">
-                <img class="img-fluid" src="./assets/svg/components/isometric-squares-light.svg"
+                <img class="img-fluid" src="./assets_2025/svg/components/isometric-squares-light.svg"
                     alt="Image Description">
             </div>
             <!-- End SVG Background Shape -->
@@ -378,7 +378,7 @@
                         <div class="d-grid gap-2">
                             <a class="btn btn-white btn-lg" href="#">
                                 <span class="d-flex justify-content-center align-items-center">
-                                    <img class="avatar avatar-xss me-2" src="./assets/svg/brands/google-icon.svg"
+                                    <img class="avatar avatar-xss me-2" src="./assets_2025/svg/brands/google-icon.svg"
                                         alt="Image Description">
                                     Log in with Google
                                 </span>
@@ -462,7 +462,7 @@
                         <div class="d-grid gap-3">
                             <a class="btn btn-white btn-lg" href="#">
                                 <span class="d-flex justify-content-center align-items-center">
-                                    <img class="avatar avatar-xss me-2" src="./assets/svg/brands/google-icon.svg"
+                                    <img class="avatar avatar-xss me-2" src="./assets_2025/svg/brands/google-icon.svg"
                                         alt="Image Description">
                                     Sign up with Google
                                 </span>
@@ -591,22 +591,22 @@
                     <div class="w-85 mx-auto">
                         <div class="row justify-content-between">
                             <div class="col">
-                                <img class="img-fluid" src="./assets/svg/brands/gitlab-gray.svg" alt="Logo">
+                                <img class="img-fluid" src="./assets_2025/svg/brands/gitlab-gray.svg" alt="Logo">
                             </div>
                             <!-- End Col -->
 
                             <div class="col">
-                                <img class="img-fluid" src="./assets/svg/brands/fitbit-gray.svg" alt="Logo">
+                                <img class="img-fluid" src="./assets_2025/svg/brands/fitbit-gray.svg" alt="Logo">
                             </div>
                             <!-- End Col -->
 
                             <div class="col">
-                                <img class="img-fluid" src="./assets/svg/brands/flow-xo-gray.svg" alt="Logo">
+                                <img class="img-fluid" src="./assets_2025/svg/brands/flow-xo-gray.svg" alt="Logo">
                             </div>
                             <!-- End Col -->
 
                             <div class="col">
-                                <img class="img-fluid" src="./assets/svg/brands/layar-gray.svg" alt="Logo">
+                                <img class="img-fluid" src="./assets_2025/svg/brands/layar-gray.svg" alt="Logo">
                             </div>
                             <!-- End Col -->
                         </div>
